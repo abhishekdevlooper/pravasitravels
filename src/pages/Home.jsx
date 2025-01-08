@@ -43,7 +43,7 @@ export default function Home() {
               <div className="position-relative h-100">
                 <img
                   className="img-fluid position-absolute w-100 h-100"
-                  src="assets/img/about.jpg"
+                  src="../../public/assets/img/about.jpg"
                   alt=""
                   style={{ objectFit: "cover" }}
                 />
@@ -269,7 +269,7 @@ export default function Home() {
                   >
                     <img
                       className="img-fluid"
-                      src="../img/destination-1.jpg"
+                      src="../../public/assets/img/destination-1.jpg"
                       alt=""
                     />
                     <div className="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">
@@ -290,7 +290,7 @@ export default function Home() {
                   >
                     <img
                       className="img-fluid"
-                      src="../img/destination-2.jpg"
+                      src="../../public/assets/img/destination-2.jpg"
                       alt=""
                     />
                     <div className="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">
@@ -311,7 +311,7 @@ export default function Home() {
                   >
                     <img
                       className="img-fluid"
-                      src="../img/destination-3.jpg"
+                      src="../../public/assets/img/destination-3.jpg"
                       alt=""
                     />
                     <div className="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">
@@ -335,7 +335,7 @@ export default function Home() {
               >
                 <img
                   className="img-fluid position-absolute w-100 h-100"
-                  src="../img/destination-4.jpg"
+                  src="../../public/assets/img/destination-4.jpg"
                   alt=""
                   style={{ objectFit: "cover" }}
                 />
@@ -732,7 +732,7 @@ export default function Home() {
                 <div className="overflow-hidden">
                   <img
                     className="img-fluid"
-                    src="../components/assets/img/team-1.jpg"
+                    src="../../public/assets/img/team-1.jpg"
                     alt=""
                   />
                 </div>
@@ -764,7 +764,7 @@ export default function Home() {
                 <div className="overflow-hidden">
                   <img
                     className="img-fluid"
-                    src="../assets/img/team-2.jpg"
+                    src="../../public/assets/img/team-2.jpg"
                     alt=""
                   />
                 </div>
@@ -796,7 +796,7 @@ export default function Home() {
                 <div className="overflow-hidden">
                   <img
                     className="img-fluid"
-                    src="../assets/img/team-3.jpg"
+                    src="../../public/assets/img/team-3.jpg"
                     alt=""
                   />
                 </div>
@@ -828,7 +828,7 @@ export default function Home() {
                 <div className="overflow-hidden">
                   <img
                     className="img-fluid"
-                    src="assets/img/team-4.jpg"
+                    src="../../public/assets/img/team-4.jpg"
                     alt=""
                   />
                 </div>
